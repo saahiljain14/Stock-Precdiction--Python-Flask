@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Stocks Prediction</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../static/assets/css/main.css" />
+	</head>
+	<body>
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<header>
+						<h1>Get your Stocks Predicted</h1>
+					</header>
+					{% if message %}
+					<p class="error"> {{ message }}
+					{% endif  %}
+					<form method="POST">
+					<div>
+					<input type="number" step="0.01" name="pe" placeholder="PE Ratio" style="width:22%"><br>
+					<input type="number" step="0.01" name="eps" placeholder="EPS" style="width:22%"><br>
+					<input type="number" step="0.01" name="de" placeholder="DE Ratio" style="width:22%"><br>
+					<input type="number" step="0.01" name="cr" placeholder="CR Ratio" style="width:22%"><br>
+					</div>
+					<div>
+					<br>
+					<br>
+					
+					</div>
+					<div class="flex ">
+
+						<div>
+						<input type="Submit" name="choice" class="button" value="Decision Tree">
+						</div>
+
+						<div>
+						<input type="Submit" name="choice" class="button" value="K-Neighbours">
+						</div>
+
+					</div>
+					</form>
+				</div>
+			</section>
+
+
+
+
+		<!-- Scripts -->
+			<script src="../static/assets/js/jquery.min.js"></script>
+			<script src="../static/assets/js/skel.min.js"></script>
+			<script src="../static/assets/js/util.js"></script>
+			<script src="../static/assets/js/main.js"></script>
+
+	</body>
+</html>

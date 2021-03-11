@@ -1,0 +1,64 @@
+Asian Paints Ltd.$$L$$61.32$$20.97$$0.01$$1.59
+Adani Ports & Special Economic Zone Ltd.$$P$$29.21$$-8.94$$1.03$$3.13
+Avenue Supermarts Ltd.$$P$$113.92$$46.60$$0.26$$3.56
+Ambuja Cements Ltd.$$L$$48.44$$20.18$$0.00$$0.91
+Aurobindo Pharma Ltd.$$P$$20.42$$28.17$$0.02$$2.56
+ACC Ltd.$$L$$42.27$$121.61$$0.00$$0.83
+Ashok Leyland Ltd.$$L$$30.00$$10.68$$1.39$$2.00
+ABB India Ltd.$$P$$73.88$$2.87$$0.13$$1.44
+Aditya Birla Nuvo Ltd.(Amalgamated)$$P$$18.27$$-56.70$$1.66$$5.78
+Alkem Laboratories Ltd.$$L$$32.19$$13.40$$0.05$$2.94
+Apollo Hospitals Enterprise Ltd.$$P$$72.93$$-22.84$$0.82$$2.29
+Au Small Finance Bank Ltd.$$P$$71.71$$-10.00$$2.48$$3.90
+Adani Enterprises Ltd.$$L$$-334.56$$NA$$0.65$$1.92
+Amara Raja Batteries Ltd.$$L$$29.97$$-6.64$$0.03$$1.85
+Aditya Birla Fashion and Retail Ltd.$$P$$-635.37$$NA$$1.33$$1.23
+AIA Engineering Ltd.$$L$$33.67$$-23.01$$NaN$$4.35
+Ajanta Pharma Ltd.$$P$$27.81$$0.88$$NaN$$2.87
+Apollo Tyres Ltd.$$P$$25.13$$-46.18$$0.30$$1.11
+Adani Power Ltd.$$P$$-2.48$$NA$$12.22$$0.87
+Alembic Pharmaceuticals Ltd.$$P$$26.87$$1.42$$0.00$$2.04
+Arvind Ltd.$$L$$48.25$$-13.67$$0.21$$2.17
+Abbott India Ltd.$$P$$36.95$$83.34$$0.00$$2.88
+Akzo Nobel India Ltd.$$L$$38.07$$-6.73$$0.00$$1.15
+Aarti Industries Ltd.$$L$$25.45$$4.82$$0.44$$2.33
+Astral Poly Technik Ltd.$$L$$86.37$$29.88$$0.14$$1.56
+Avanti Feeds Ltd.$$P$$31.92$$237.96$$0.02$$1.51
+Atul Ltd.$$L$$33.25$$-14.91$$NaN$$1.95
+Aegis Logistics Ltd.$$P$$105.71$$92.59$$0.13$$1.12
+Asahi India Glass Ltd.$$L$$59.45$$18.25$$1.70$$1.22
+Allcargo Logistics Ltd.$$P$$36.19$$1.56$$0.19$$1.45
+Advanced Enzyme Technologies Ltd.$$P$$102.17$$-85.12$$0.04$$2.89
+APL Apollo Tubes Ltd.$$L$$50.90$$16.86$$0.15$$1.75
+Ashoka Buildcon Ltd.$$L$$22.07$$NA$$2.72$$0.58
+Apar Industries Ltd.$$P$$19.19$$-43.05$$0.09$$1.27
+AstraZeneca Pharma India Ltd.$$P$$61.73$$3432.26$$0.00$$1.45
+Anant Raj Ltd.$$P$$34.25$$-35.85$$0.29$$3.48
+Ahluwalia Contracts (India) Ltd.$$P$$24.50$$30.95$$NaN$$1.63
+Ashiana Housing Ltd.$$L$$21.25$$18.81$$0.11$$2.29
+Aditya Birla Money Ltd.$$P$$47.24$$-14.89$$0.31$$1.33
+Aarti Drugs Ltd.$$P$$19.96$$8.56$$0.49$$1.81
+Asian Granito India Ltd.$$P$$49.97$$55.94$$0.32$$1.98
+Agro Tech Foods Ltd.$$L$$50.28$$18.86$$0.00$$2.80
+Astra Microwave Products Ltd.$$L$$16.90$$-35.33$$0.15$$5.61
+Asian Star Company Ltd.$$P$$55.19$$9.43$$0.03$$3.95
+Automotive Axles Ltd.$$L$$34.70$$110.42$$0.00$$2.13
+Astec Lifesciences Ltd.$$P$$69.54$$-40.14$$0.00$$3.23
+Aban Offshore Ltd.$$L$$11.66$$1.08$$4.49$$0.61
+Arshiya Ltd.$$P$$-15.48$$-6.50$$N.A.$$0.04
+Alembic Ltd.$$P$$34.89$$21.51$$0.00$$1.09
+Amrutanjan Health Care Ltd.$$L$$42.69$$14.71$$0.00$$3.49
+Atul Auto Ltd.$$L$$21.70$$23.05$$0.00$$2.27
+Andhra Sugars Ltd.$$P$$11.19$$6.66$$0.23$$1.82
+Apcotex Industries Ltd.$$L$$44.91$$-33.07$$0.00$$2.09
+Alkyl Amines Chemicals Ltd.$$P$$22.03$$28.07$$0.26$$1.55
+Atlanta Ltd.$$L$$11.35$$-40.94$$0.66$$1.47
+Action Construction Equipment Ltd.$$P$$62.22$$184.85$$0.26$$1.20
+Ashapura Intimates Fashion Ltd.$$P$$65.23$$-18.78$$0.35$$6.28
+Aptech Ltd.$$P$$85.07$$190.00$$0.00$$3.55
+Arihant Superstructures Ltd.$$P$$23.74$$-18.68$$1.77$$2.57
+Arcotech Ltd.$$P$$29.01$$-82.07$$0.31$$2.32
+Ambika Cotton Mills Ltd.$$L$$12.73$$2.54$$0.00$$2.36
+Amtek Auto Ltd.$$P$$-0.29$$151.97$$0.00$$0.20
+Ajmera Realty & Infra India Ltd.$$P$$16.55$$42.01$$0.43$$2.03
+Atlas Jewellery India Ltd.$$L$$-106.11$$NA$$0.00$$27.16
